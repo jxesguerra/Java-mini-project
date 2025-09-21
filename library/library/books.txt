@@ -1,0 +1,7 @@
+001,Noli Me Tangere,Jose Rizal,History,Physical Book,Available,Noli Me Tangere.jpg
+002,El Filibusterismo,Jose Rizal,History,Physical Book,Available,El Filibusterismo.jpg
+003,1984,George Orwell,Fiction,eBook,Available,1984.jpg
+004,Head First Java,Kathy Sierra,Educational,eBook,Available,Head First Java.jpg
+005,Florante at Laura,Francisco Balagtas,Romance,eBook,Available,Florante at Laura.jpg
+006,My Hero Academia,Kohei Horikoshi,Anime,eBook,Available,My Hero Academia.jpg
+007,Eloquent JavaScript,Marijn Haverbeke,Educational,Physical Book,Available,Eloquent JavaScript.jpg
